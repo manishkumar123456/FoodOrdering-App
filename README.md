@@ -1,6 +1,20 @@
 # FoodOrdering-App
-Hello code 
-
+This is a food ordering app   with all features  
+FRONTEND  technology
+Reactjs
+HTML
+css
+javascript
+------------------------------------------------------
+BACKEND technology
+nodejs
+express js
+jwt token 
+Rest API
+postman
+mondodb
+STRIPE for payment getway
+etc
 
 
 
